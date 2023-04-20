@@ -1,7 +1,7 @@
 # nba-players-app-ui
 This repo contain the ui web page I created for the PlayersData_SpringProject application, it's only a preview for the project.<br/>
-To view the preview page [please click here](http://nba-players-data.s3-website-eu-west-1.amazonaws.com/).<br/>
-For the PlayersData_SpringProject source code [please click here](https://github.com/itsmechelly/PlayersData_SpringProject).<br/>
+To view the preview page [please CLICK HERE](http://nba-players-data.s3-website-eu-west-1.amazonaws.com/).<br/>
+For the PlayersData_SpringProject source code [please CLICK HERE](https://github.com/itsmechelly/PlayersData_SpringProject).<br/>
 
 ![nba-diagram](https://user-images.githubusercontent.com/60425986/230090962-83312605-c27e-412e-9aa0-74c87a322496.png)
 
